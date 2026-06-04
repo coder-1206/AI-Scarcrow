@@ -4,4 +4,5 @@ AI Scarecrow is a smart farming solution that detects animals in real time using
 Author - Soniya Mishra
 <br>
 BTech(Cse)
-<img src="images" width="500">
+<img src="C:\Users\SONIYA\Pictures\Screenshots\Capture" width="500">
+
